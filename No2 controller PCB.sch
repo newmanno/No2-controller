@@ -263,8 +263,6 @@ Wire Wire Line
 Wire Wire Line
 	7950 4500 7950 3800
 Connection ~ 7950 3800
-Text Label 4000 3900 0    50   ~ 0
-GND
 Text GLabel 4550 2900 0    50   Input ~ 0
 GND
 Text GLabel 5950 2800 2    50   Input ~ 0
